@@ -56,7 +56,7 @@
 //     return 0;
 // }
 
-// 5 //WRITE A PROGRAM TO CALCULATE THE OLUME OF A CYLINDER
+// 5 //WRITE A PROGRAM TO CALCULATE THE VOLUME OF A CYLINDER
 // #include<iostream>
 // using namespace std;
 // int main(){
