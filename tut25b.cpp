@@ -15,7 +15,7 @@ class complex{
     }
     void printNumber(){
         cout<<"your complex number is "<<a<<" + "<<b<<"i"<<endl;
-    }
+    } 
 };
 int main(){
     complex c1,c2 ,c3;
